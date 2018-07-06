@@ -1,5 +1,5 @@
-=== Daptar ===
-Contributors: itsRashad<itsrashad@gmail.com>
+# === Daptar ===
+Contributors: alvimaxau<alvimaxau@gmail.com>
 Tags: two-columns, right-sidebar, flexible-header, custom-background, editor-style, featured-images, full-width-template, post-formats, sticky-post, rtl-language-support, theme-options, translation-ready
 
 Requires at least: 4.0
@@ -8,13 +8,13 @@ Stable tag: 1.0.3
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-Daptar WordPress Theme, Copyright 2018 itsRashad Daptar
+Daptar WordPress Theme, Copyright 2018 alvimaxau Daptar
 Daptar is distributed under the terms of the GNU GPL
 
-== Description ==
+# == Description ==
 Responsive Daptar wordpress theme which is designed with alpha version bootstrap 4 and Ideal for featuring Daptar products and techniques. Daptar is optimized for best practice SEO with visual page builder integration.
 
-== Installation ==
+# == Installation ==
 
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload Theme and Choose File, then select the theme's .zip file. Click Install Now.
@@ -26,7 +26,7 @@ Responsive Daptar wordpress theme which is designed with alpha version bootstrap
 
 Daptar includes support for Infinite Scroll in Jetpack.
 
-== Changelog ==
+# == Changelog ==
 = 1.0.3 - Mar 10 2018 =
 * Update new screenshort
 * Fix some css
@@ -43,7 +43,7 @@ Daptar includes support for Infinite Scroll in Jetpack.
 = 1.0.0 - Jan 03 2018 =
 * Initial release
 
-== Credits ==
+# == Credits ==
 
 * Underscores
   http://underscores.me/, (C) 2012-2016 Automattic, Inc.,
